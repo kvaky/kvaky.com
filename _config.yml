@@ -2,6 +2,9 @@ markdown: kramdown
 title: kvaky's blog
 description: adventures, thoughts, etc.
 theme: minima
+author:
+  name: Peter Kvačkay
+  email: "peter.kvackay@gmail.com"
 
 instagram_username: kvaky
 minima:

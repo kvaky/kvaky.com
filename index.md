@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-Sometimes I share stories.
+I will share stories here once I set this page up.

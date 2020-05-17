@@ -2,7 +2,7 @@ markdown: kramdown
 title: kvaky's blog
 description: adventures, thoughts, etc.
 theme: minima
+
+instagram_username: kvaky
 minima:
   date_format: "%Y-%m-%d"
-  social_links:
-    instagram: kvaky

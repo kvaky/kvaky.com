@@ -7,6 +7,9 @@ email: "peter.kvackay@gmail.com"
 
 plugins: 
   - jekyll-feed
+  
+google_analytics: UA-167014113-1
+show_excerpts: true
 
 instagram_username: kvaky
 facebook_username: peter.kvackay

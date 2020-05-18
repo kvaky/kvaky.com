@@ -5,6 +5,9 @@ theme: minima
 author: Peter Kvačkay
 email: "peter.kvackay@gmail.com"
 
+plugins: 
+  - jekyll-feed
+
 instagram_username: kvaky
 facebook_username: peter.kvackay
 minima:

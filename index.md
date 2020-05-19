@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-I will share stories here once I set this page up.
+I am setting this page up. Meanwhile you can subscribe at the bottom of the page and I will let you know once I post something.

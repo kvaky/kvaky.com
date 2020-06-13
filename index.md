@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-I am setting this page up. Meanwhile you can subscribe at the bottom of the page and I will let you know once I post something.
+Once in a while, I write something hopefully interesting. This site started as a project to learn writing and have my experiences stored somewhere for people to read and maybe get inspired.

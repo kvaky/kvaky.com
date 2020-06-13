@@ -7,6 +7,17 @@ email: "peter.kvackay@gmail.com"
 
 plugins: 
   - jekyll-feed
+
+collections:
+  drafts:
+    output: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: drafts
+    values:
+      layout: draft
   
 show_excerpts: true
 
